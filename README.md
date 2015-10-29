@@ -1,2 +1,2 @@
 # mms_test
-test mms app
+测试 mms
